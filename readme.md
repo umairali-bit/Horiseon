@@ -20,6 +20,8 @@ The following changes are made to the code:
 
 
 **Screen shot of Horiseon**
+  <br>
+  <br>
 ![Screen shot](/assets/images/umairali-bit.github.io_horiseon_%20(1).png)
 
 

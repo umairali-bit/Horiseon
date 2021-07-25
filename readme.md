@@ -4,7 +4,7 @@
 
 
 
-"HORISEON", also mentioned as "Challenege 1" is an on-the-job ticket, which means that starter code is already given, we just need to modify it.
+"HORISEON", also mentioned as "Challenege 1" is an on-the-job ticket, which means that the starter code is already given, we just need to modify it.
 
 The following changes are made to the code:
 
